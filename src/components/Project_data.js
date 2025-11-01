@@ -22,10 +22,10 @@ const projects = [
   },
   {
     id: 3,
-    title: "WeatherSphere",
+    title: "Portfolio App",
     description: "Advanced weather dashboard with beautiful data visualizations, predictive analytics, and global coverage. Features interactive maps and severe weather alerts.",
     image: "/images/weathersphere.jpg",
-    link: "https://weathersphere-app.com",
+    link: "https://portfolio-app-dusky-sigma.vercel.app/",
     github: "https://github.com/username/weathersphere",
     category: "Frontend",
     technologies: ["JavaScript", "Chart.js", "API Integration", "CSS3", "Geolocation"]

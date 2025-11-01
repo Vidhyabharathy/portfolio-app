@@ -47,7 +47,7 @@ function Contact() {
     {
       name: "Portfolio",
       icon: "🌐",
-      url: "https://yourportfolio.com",
+      url: "https://portfolio-app-dusky-sigma.vercel.app/",
       description: "Project Showcase",
       color: "linear-gradient(135deg, #6366f1, #8b5cf6)"
     },
