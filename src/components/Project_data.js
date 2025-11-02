@@ -8,7 +8,7 @@ const projects = [
     link: "https://vidhyabharathy.github.io/improved-meme/",
     github: "https://github.com/username/ecommerce-platform",
     category: "Full Stack",
-    technologies: ["React", "Node.js", "MongoDB", "Express", "Stripe", "JWT", "Redux"]
+    technologies: ["HTML", "CSS", "AStrology API", "Nominatim API","Geolocation"]
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     link: "https://risk-dashboard-a3m5.vercel.app/",
     github: "https://github.com/username/taskflow-pro",
     category: "Frontend",
-    technologies: ["React", "TypeScript", "Firebase", "Tailwind CSS", "AI Integration"]
+    technologies: ["React", "Bootstrap","Echarts"]
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const projects = [
     link: "https://portfolio-app-dusky-sigma.vercel.app/",
     github: "https://github.com/username/weathersphere",
     category: "Frontend",
-    technologies: ["JavaScript", "Chart.js", "API Integration", "CSS3", "Geolocation"]
+    technologies: ["React", "Tailwind CSS", "Animation"]
   },
 
 ];
