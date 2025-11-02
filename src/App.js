@@ -13,9 +13,7 @@ function App() {
       <Header />
       <Hero />
       <About />
-      <main className="container py-4">
-       
-      </main>
+     
       <SkillsSection/>
       <Projects />
       <Contact />
