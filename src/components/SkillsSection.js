@@ -6,8 +6,8 @@ const SkillsSection = () => {
     { name: "Python", level: 90, color: "#3776AB", icon: "🐍" },
     { name: "C++", level: 85, color: "#00599C", icon: "⚡" },
     { name: "JavaScript", level: 88, color: "#F7DF1E", icon: "📜" },
-    { name: "AppScript", level: 75, color: "#0F9D58", icon: "📊" },
-    { name: "Linux", level: 82, color: "#FCC624", icon: "🐧" },
+    { name: "Snowflake", level: 75, color: "#0F9D58", icon: "❄️" },
+    { name: "Node", level: 82, color: "#FCC624", icon: "🟢" },
     { name: "React", level: 87, color: "#61DAFB", icon: "⚛️" },
   ];
 
