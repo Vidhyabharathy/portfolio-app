@@ -24,7 +24,7 @@ const projects = [
     id: 3,
     title: "Portfolio App",
     description: "Advanced weather dashboard with beautiful data visualizations, predictive analytics, and global coverage. Features interactive maps and severe weather alerts.",
-    image: "/images/weathersphere.jpg",
+    image: "https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio-1170x658.jpg",
     link: "https://portfolio-app-dusky-sigma.vercel.app/",
     github: "https://github.com/username/weathersphere",
     category: "Frontend",
