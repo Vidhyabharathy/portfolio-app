@@ -117,8 +117,8 @@ const About = () => {
     let passion = 0;
     
     const interval = setInterval(() => {
-      if (projects < 50) projects += 5;
-      if (experience < 3) experience += 1;
+      if (projects < 5) projects += 5;
+      if (experience < 1) experience += 1;
       if (passion < 100) passion += 10;
       
       setStatValues({ projects, experience, passion });
